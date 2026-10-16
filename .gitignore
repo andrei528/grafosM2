@@ -1,0 +1,20 @@
+# Binários compilados
+main
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+
+# Diretórios de build
+build/
+bin/
+obj/
+
+# Configurações do editor
+.vscode/
+
+# Arquivos de SO
+.DS_Store
+Thumbs.db
